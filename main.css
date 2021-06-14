@@ -8,17 +8,17 @@ input{text-align: left;}
 button{
     background-color: cyan;
     text-align: center;
-    width: 100px;}
+    width: 175px;}
 form{
     border:2px solid black;
+    margin: auto auto;
     margin-top: 200px;
-    margin-right: 200px;
-    margin-bottom: 200px;
-    margin-left: 200px;
     padding: 20px 20px 20px 40px;
     background-color: white;
+    width: 300px;
 }
 
 img{
     height: 50px;
     width: 50px;}
+    
